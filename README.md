@@ -1,4 +1,4 @@
-# EmailBoom
+# MailMass
 Este projeto é um disparador de emails em massa com funcionalidades de personalização e gerenciamento de contatos.
 
 ## Funcionalidades
