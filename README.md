@@ -26,7 +26,7 @@ Este projeto é um disparador de emails em massa com funcionalidades de personal
 
 2. Instale as dependências necessárias:
     ```bash
-    pip install -r requirements.txt
+    pip install -r configparser
     ```
 
 3. Configure o servidor SMTP na aba "Configurações" da interface.
