@@ -26,7 +26,7 @@ Este projeto é um disparador de emails em massa com funcionalidades de personal
 
 2. Instale as dependências necessárias:
     ```bash
-    pip install -r configparser
+    pip install configparser
     ```
 
 3. Configure o servidor SMTP na aba "Configurações" da interface.
@@ -51,10 +51,6 @@ Este projeto é um disparador de emails em massa com funcionalidades de personal
 ## Contribuição
 
 Sinta-se à vontade para contribuir com o projeto. Faça um fork do repositório, crie uma branch para suas alterações e envie um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## Contato
 
